@@ -1,0 +1,4 @@
+__pycache__/
+*.jl
+.DS_Store
+*.csv
