@@ -1,4 +1,4 @@
-# Google Scholar scrawler
+# Google Scholar crawler
 
 This is a Google Scholar scrawler that downloads all the publications of an author and all the publications that cited this author.
 
